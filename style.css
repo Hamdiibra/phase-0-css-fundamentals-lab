@@ -3,3 +3,32 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+img {
+  display: block;
+  margin: auto;
+}
+nav a {
+  padding: 10px;
+  background-color: grey;
+  text-align: center;
+  display: inline-block;
+}
+nav {
+  text-align: center;
+}
+p {
+  width: 800px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+}
+bottom-row {
+  background-color: grey;
+  width: 25%;
+  float: left;
+  text-align: center;
+padding: 10px;
+}
